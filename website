@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lægepraksis Præstelænge 5</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        footer {
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lægepraksis Præstelænge 5</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Velkommen til Læge Tanja Skrba</h2>
+            <p>Velkommen til vores lægepraksis, hvor vi tilbyder en bred vifte af medicinske tjenester til vores patienter.</p>
+        </section>
+
+        <section>
+            <h2>Om Læge Tanja Skrba</h2>
+            <p>Dr. Tanja Skrba er speciallæge i almen medicin og har mange års erfaring med at hjælpe patienter med forskellige helbredsproblemer.</p>
+        </section>
+
+        <section>
+            <h2>Kontaktinformation</h2>
+            <p>Adresse: Præstelænge 5, 4000 Roskilde</p>
+            <p>Telefon: +45 1234 5678</p>
+            <p>Email: info@praestelaengen5.dk</p>
+        </section>
+
+        <section>
+            <h2>Åbningstider</h2>
+            <p>Mandag - Fredag: 08:00 - 16:00</p>
+            <p>Lørdag - Søndag: Lukket</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Lægepraksis Præstelænge 5. Alle rettigheder forbeholdes.</p>
+    </footer>
+</body>
+</html>
